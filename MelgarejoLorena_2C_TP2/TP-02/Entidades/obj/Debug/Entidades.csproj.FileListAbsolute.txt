@@ -1,0 +1,27 @@
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\bin\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\bin\Debug\Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\obj\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\obj\Debug\Entidades.pdb
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\obj\Debug\Entidades.dll
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\obj\Debug\Entidades.pdb
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\bin\Debug\Entidades.dll
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\bin\Debug\Entidades.pdb
+F:\Documentos Lore\Documents\Practicas de C#\TP2\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+F:\Documentos Lore\Documents\Practicas de C#\TP2\TP-02\Entidades\obj\Debug\Entidades.dll
+F:\Documentos Lore\Documents\Practicas de C#\TP2\TP-02\Entidades\obj\Debug\Entidades.pdb
+E:\C#2017\TP_ParaEntragar\TP2\TP-02\Entidades\bin\Debug\Entidades.dll
+E:\C#2017\TP_ParaEntragar\TP2\TP-02\Entidades\bin\Debug\Entidades.pdb
+E:\C#2017\TP_ParaEntragar\TP2\TP-02\Entidades\obj\Debug\Entidades.dll
+E:\C#2017\TP_ParaEntragar\TP2\TP-02\Entidades\obj\Debug\Entidades.pdb
+H:\C#2017\TP_ParaEntragar\TP2\TP-02\Entidades\bin\Debug\Entidades.dll
+H:\C#2017\TP_ParaEntragar\TP2\TP-02\Entidades\bin\Debug\Entidades.pdb
+H:\C#2017\TP_ParaEntragar\TP2\TP-02\Entidades\obj\Debug\Entidades.dll
+H:\C#2017\TP_ParaEntragar\TP2\TP-02\Entidades\obj\Debug\Entidades.pdb
+H:\C#2017\TP_ParaEntragar\TP2\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+F:\Documentos Lore\Desktop\TP2\TP-02\Entidades\bin\Debug\Entidades.dll
+F:\Documentos Lore\Desktop\TP2\TP-02\Entidades\bin\Debug\Entidades.pdb
+F:\Documentos Lore\Desktop\TP2\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+F:\Documentos Lore\Desktop\TP2\TP-02\Entidades\obj\Debug\Entidades.dll
+F:\Documentos Lore\Desktop\TP2\TP-02\Entidades\obj\Debug\Entidades.pdb
